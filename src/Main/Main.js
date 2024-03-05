@@ -1,7 +1,7 @@
 import React from "react";
 import './Main.css';
 import card1Img from '../assets/playlist/1.jpeg';
-import card2Img from '../assets/playlist/2.jpeg';
+import card2Img from '../assets/playlist/2.png';
 import card3Img from '../assets/playlist/3.jpeg';
 import card4Img from '../assets/playlist/4.jpeg';
 import card5Img from '../assets/playlist/5.jpeg';
