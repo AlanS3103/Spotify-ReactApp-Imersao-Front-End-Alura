@@ -1,3 +1,10 @@
+# Aprendendo React
+
+<p>Participei da Imersão Front-End da Alura em janeiro de 2024 e desenvolvi um projeto com base no Spotify Web durante o evento, seguindo as transmissões ao vivo. No entanto, na última aula, houve uma introdução ao React. Decidi então utilizar o que foi apresentado nessa aula para criar um projeto em React, com o objetivo de aprofundar meus conhecimentos sobre essa tecnologia.</p>
+<br><br>
+
+Texto padrão do React:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
